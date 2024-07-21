@@ -1,0 +1,127 @@
+{
+  "mwarehouse": {
+    "warehouseCode": [
+      "仓库代码",
+      "仓库代码",
+      "请输入仓库代码",
+      "仓库代码不能为空"
+    ],
+    "warehouseName": [
+      "仓库名称",
+      "仓库名称",
+      "请输入仓库名称",
+      "仓库名称不能为空"
+    ],
+    "warehouseType": [
+      "仓库类型",
+      "仓库类型",
+      "请选择仓库类型",
+      "仓库类型不能为空"
+    ],
+    "locationCode": [
+      "储位代码",
+      "储位代码",
+      "请输入储位代码",
+      "储位代码不能为空"
+    ],
+    "locationName": [
+      "储位名称",
+      "储位名称",
+      "请输入储位名称",
+      "储位名称不能为空"
+    ],
+    "locationType": [
+      "储位类型",
+      "储位类型",
+      "请选择储位类型",
+      "储位类型不能为空"
+    ],
+    "currentStatus": [
+      "栈板",
+      "栈板",
+      "请选择是否栈板",
+      "是否栈板不能为空"
+    ],
+    "enabled": [
+      "状态",
+      "状态",
+      "请选择状态",
+      "状态不能为空"
+    ],
+    "ConfirmChangeStatus": "确认要{op}{name}吗?",
+    "ChangeOK": "更新成功",
+    "AddWarehouse": "新增仓库",
+    "UpdateWarehouse": "修改仓库",
+    "AddStorageLocation": "新增储位",
+    "UpdateStorageLocation": "修改储位",
+    "AddOK": "新增成功",
+    "UpdateOK": "更新成功"
+  },
+  "warehousing": {
+    "cmbtype": [
+      "类型",
+      "类型",
+      "请选择类型",
+      "类型不能为空"
+    ],
+    "ipn": [
+      "料号",
+      "料号",
+      "请输入料号",
+      "料号不能为空"
+    ],
+    "mark": [
+      "备注",
+      "备注",
+      "请输入备注",
+      "备注不能为空"
+    ],
+    "warehousecode": [
+      "库位",
+      "库位",
+      "请选择库位",
+      "库位不能为空"
+    ],
+    "locationcode": [
+      "储位",
+      "储位",
+      "请输入储位",
+      "储位不能为空"
+    ],
+    "inputtype": [
+      "方式",
+      "方式",
+      "请选择方式",
+      "方式不能为空"
+    ],
+    "qty": [
+      "数量",
+      "数量",
+      "请输入数量",
+      "数量不能为空"
+    ],
+    "inputdata": [
+      "数据",
+      "数据",
+      "请输入数据",
+      "数据不能为空"
+    ],
+    "ResetLocationCode": "重置储位",
+    "ClearData": "清空数据",
+    "success": "成功",
+    "InCount": "入库数量",
+    "InData": "入库数据",
+    "table": {
+      "worK_ORDER": "工单",
+      "parT_NO": "料号",
+      "palleT_NO": "栈板号",
+      "cartoN_NO": "箱号",
+      "seriaL_NUMBER": "SN",
+      "customeR_SN": "CSN",
+      "qty": "SN数量",
+      "fixeD_QTY": "长度",
+      "sN_UNIT": "单位"
+    },
+    "PartNoExisted": "料号已存在"
+  }
+}

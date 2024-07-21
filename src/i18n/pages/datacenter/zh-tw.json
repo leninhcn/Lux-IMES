@@ -1,0 +1,18 @@
+{
+    "iForm": {
+      "filtrate": "篩選條件",
+      "isEnable": "是否啟用",
+      "filtrateTip": "請選擇篩選條件",
+      "isEnableTip": "請選擇是否啓用",
+      "placeholderTip": "請輸入",
+      "all": "全部",
+      "enable": "啟用",
+      "disenable": "禁用"
+    },
+    "rightToolBar": {
+      "isShowCol": "顯隱列",
+      "hiddenSearch": "隱藏搜索",
+      "showSearch": "顯示搜索",
+      "refresh": "刷新"
+    }
+  }

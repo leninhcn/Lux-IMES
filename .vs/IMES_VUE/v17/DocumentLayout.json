@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\node_modules\\vue-cropper\\lib\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\vue-cropper\\lib\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\zh-tw.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\i18n\\lang\\zh-tw.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\vn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\i18n\\lang\\vn.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\.env.production||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env.production||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.ts",
+              "DocumentMoniker": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\node_modules\\vue-cropper\\lib\\index.ts",
+              "RelativeDocumentMoniker": "node_modules\\vue-cropper\\lib\\index.ts",
+              "ToolTip": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\node_modules\\vue-cropper\\lib\\index.ts",
+              "RelativeToolTip": "node_modules\\vue-cropper\\lib\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-17T07:27:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zh-tw.json",
+              "DocumentMoniker": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\zh-tw.json",
+              "RelativeDocumentMoniker": "src\\i18n\\lang\\zh-tw.json",
+              "ToolTip": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\zh-tw.json",
+              "RelativeToolTip": "src\\i18n\\lang\\zh-tw.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T06:16:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vn.json",
+              "DocumentMoniker": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\vn.json",
+              "RelativeDocumentMoniker": "src\\i18n\\lang\\vn.json",
+              "ToolTip": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\src\\i18n\\lang\\vn.json",
+              "RelativeToolTip": "src\\i18n\\lang\\vn.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T06:16:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env.production",
+              "DocumentMoniker": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\.env.production",
+              "RelativeDocumentMoniker": ".env.production",
+              "ToolTip": "D:\\20 \u65B0\u90E8\u95E8\\03 \u4EE3\u7801\\IMESBSKS\\IMES_VUE\\.env.production",
+              "RelativeToolTip": ".env.production",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-05T06:16:12.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

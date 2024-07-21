@@ -1,0 +1,161 @@
+{
+  "labelmanagement": {
+    "LabelBase": "Label Base",
+    "LabelParams": "Label Params",
+    "LabelType": "Label Type",
+    "LabelSQL": "Label SQL",
+    "model": [
+      "Model",
+      "Model",
+      "Please select Model",
+      "Model is required"
+    ],
+    "ipn": [
+      "IPN",
+      "IPN",
+      "Please select IPN",
+      "IPN is required"
+    ],
+    "stationType": [
+      "StationType",
+      "Station Type",
+      "Please select station type",
+      "Station type is required"
+    ],
+    "labelType": [
+      "LabelType",
+      "Label Type",
+      "Please select label type",
+      "Label type is required"
+    ],
+    "labelTypeDesc": [
+      "LabelTypeDesc",
+      "Label Type Desc",
+      "Please enter label type desc",
+      "Label type desc is required"
+    ],
+    "labelName": [
+      "LabelName",
+      "Label Name",
+      "Please select label type to get label name",
+      "Label name is required"
+    ],
+    "labelParams": [
+      "LabelParams",
+      "Label Params",
+      "Please enter label params",
+      "Label params is required"
+    ],
+    "typeFlag": [
+      "TypeFlag",
+      "Type Flag",
+      "Please enter type flag",
+      "Type flag is required"
+    ],
+    "labelDesc": [
+      "LabelDesc",
+      "Label Desc",
+      "Please enter label desc",
+      "Label Desc is required"
+    ],
+    "printerName": [
+      "PrinterName",
+      "Printer Name",
+      "Please enter printer name",
+      "Printer name is required"
+    ],
+    "labelSrvIp": [
+      "LabelSrvIp",
+      "LabelSrvIp",
+      "Please enter LabelSrvIp",
+      "LabelSrvIp is required"
+    ],
+    "labelDlUrl": [
+      "LabelDlUrl",
+      "LabelDlUrl",
+      "Please enter LabelDlUrl",
+      "LabelDlUrl is required"
+    ],
+    "fieldName": [
+      "LabelFieldName",
+      "Label Field Name",
+      "Please select label field name",
+      "Label field name is required"
+    ],
+    "varType": [
+      "LabelVarType",
+      "Label Var Type",
+      "Please select label var type",
+      "Label var type is required"
+    ],
+    "varName": [
+      "LabelVarName",
+      "Label Variable",
+      "Please enter label variable",
+      "Label variable is required"
+    ],
+    "varDesc": [
+      "LabelVarDesc",
+      "Label Variable Desc",
+      "Please enter label variable desc",
+      "Label variable desc is required"
+    ],
+    "labelFile": [
+      "LabelFile",
+      "Label File",
+      "Please select label file",
+      "Label file desc is required",
+      "Select File"
+    ],
+    "labelSql": [
+      "LabelSql",
+      "Label SQL",
+      "Please enter label sql",
+      "Label SQL is required"
+    ],
+    "labelOrder": [
+      "LabelSqlOrder",
+      "Order",
+      "Please enter label sql order",
+      "Label sql order is required"
+    ],
+    "inputParam": [
+      "LabelInputParam",
+      "Input Param",
+      "Please enter label input param",
+      "Label input param is required"
+    ],
+    "inputField": [
+      "LabelInputField",
+      "Input Field",
+      "Please enter label input field",
+      "Label input field is required"
+    ],
+    "printType": [
+      "PrintType",
+      "Print Type",
+      "Please select print type",
+      "Print type is required"
+    ],
+    "enabled": [
+      "Enabled",
+      "Enabled",
+      "Please select whether enabled or not",
+      "Enabled is required"
+    ],
+    "updateEmpno": "UpdateUser",
+    "updateTime": "UpdateTime",
+    "AddLabelBase": "Add Label Base",
+    "UpdateLabelBase": "Update Label Base",
+    "AddLabelParams": "Add Label Params",
+    "UpdateLabelParams": "Update Label Params",
+    "AddLabelType": "Add Label Type",
+    "UpdateLabelType": "Update Label Type",
+    "AddLabelSql": "Add Label SQL",
+    "UpdateLabelSql": "Update Label SQL",
+    "ConfirmDelete": "Confirm to delete?",
+    "AddOK": "Add OK",
+    "UpdateOK": "Update OK",
+    "DeleteOK": "Delete OK"
+  }
+}

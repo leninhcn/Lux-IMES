@@ -1,0 +1,91 @@
+{
+  "general":{
+    "enabled":"状态",
+    "updateEmpno":"更新人员",
+    "updateTime":"更新时间",
+    "createEmpno":"创建人员",
+    "createTime":"创建时间",
+    "Operational":"操作"
+  },
+  "mntndefect":{
+    "defectCode":"不良代码",
+    "defectDesc":"不良描述",
+    "defectDesc2":"不良描述2",
+    "defectType":"不良类型",
+    "codeLevel":"代码级别",
+    "defectLevel":"不良级别",
+    "parentDefectCode":"父不良代码",
+    "stationType":"站点类型",
+    "model":"机种",
+    "enabled":"状态",
+    "updateEmpno":"更新人员",
+    "updateTime":"更新时间",
+    "createEmpno":"创建人员",
+    "createTime":"创建时间"
+  },
+  "mntnduty":{
+    "dutyCode":"责任代码",
+    "dutyDesc":"责任描述",
+    "dutyDesc2":"责任描述2", 
+    "UpdateData":"修改责任代码",
+    "AddData":"新增责任代码",
+    "UpdateOK":"修改责任代码",
+    "AddOK":"新增责任代码"
+    },
+  "mntnreason":{
+    "reasonCode":"不良原因代码",
+    "reasonDesc":"不良原因描述",
+    "reasonDesc2":"不良原因描述2",
+    "reasonType":"不良原因类型",
+    "UpdateData":"修改不良原因代码",
+    "AddData":"新增不良原因代码",
+    "UpdateOK":"修改不良原因代码",
+    "AddOK":"新增不良原因代码"
+    },
+    "mntnblockconfig":{
+      "configTypeName":"类型名称",
+      "configTypeDesc":"描述",
+      "neederEmpno":"需求人",
+      "configName":"配置名称",
+      "configDesc":"配置描述",
+      "configValue":"配置值",
+      "routeName":"途程",
+      "line":"线体",
+      "stationType":"站点类型",
+      "stationName":"站点",
+      "ConfigSeq":"序号",
+      "checkType":"调用类型",
+      "configType":"类型",
+      "configProsql":"配置SQL",
+      "UpdateData":"修改设定",
+      "AddData":"新增设定",
+      "UpdateOK":"修改成功",
+      "AddOK":"新增成功"
+    },
+  "mntnworkorder": {
+    "WorkOrder": "工单",
+    "WoStatus": "工单状态",
+    "IPN":"ICT料号"
+  },
+  "mntnwostatus": {
+    "workOrder": "工单",
+    "status":"状态",
+    "memo":"备注",
+    "worK_ORDER":"工单",
+    "WoStatus": "状态",
+    "wO_SCHEDULE_START_DATE":"wO_SCHEDULE_START_DATE",
+    "wO_SCHEDULE_CLOSE_DATE":"wO_SCHEDULE_CLOSE_DATE",
+    "ipn":"IPN",
+    "version":"version",
+    "line":"line",
+    "customerdn":"customerdn",
+    "targeT_QTY":"targeT_QTY",
+    "scraP_QTY":"scraP_QTY",
+    "routE_NAME":"routE_NAME",
+    "remark":"remark",
+    "inpuT_QTY":"inpuT_QTY",
+    "outpuT_QTY":"outpuT_QTY",
+    "starT_STATION_TYPE":"starT_STATION_TYPE",
+    "enD_STATION_TYPE":"enD_STATION_TYPE"
+  }
+}

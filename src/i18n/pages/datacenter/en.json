@@ -1,0 +1,58 @@
+{
+    "iForm": {
+      "filtrate": "Filtrate",
+      "isEnable": "IsEnable",
+      "filtrateTip": "请选择筛选条件",
+      "isEnableTip": "请选择是否启用",
+      "placeholderTip": "请输入",
+      "all": "All",
+      "enable": "Enable",
+      "disenable": "Disenable"
+    },
+    "rightToolBar": {
+      "isShowCol": "显隐列",
+      "hiddenSearch": "HiddenSearch",
+      "showSearch": "ShowSearch",
+      "refresh": "Refresh"
+    },
+    "model": {
+    "modelName": "Model Name",
+    "modelCustomer": "Model Customer",
+    "modelDesc": "Model Desc",
+    "coloren": "Color EN",
+    "colorcn": "Color CN",
+    "colorvi": "Color VI"
+    },
+    "categoryname":{
+    "modelName": "Model Name",
+    "categoryId": "category Code",
+    "unitType": "Dept Name",
+    "category_en": "Category Info EN",
+    "category_cn": "Category Info CN",
+    "category_vi": "Category Info VI"
+    } ,
+    "imSet":{
+    "modelName": "Model Name",
+    "lineName": "Line Name",
+    "stageName": "Stage Name",
+    "stationName": "Station Name",
+    "productVersion": "Product Version",
+    "sjBuild": "Build No",
+    "machine": "Machine",
+    "tooling": "Tooling",
+    "cavity": "Cavity"
+    },
+    "empActive":{
+    "empId": "User ID",
+    "empNo": "User No",
+    "empName": "User Name",
+    "enaBled": "Status",
+    "loginTime": "Last login Time",
+    "updateTime": "Active Time",
+    "enable": "Active",
+    "disenable": "Disenable",
+    "o_enabled": "Status Before Modification",
+    "n_enabled": "Modified Status",
+    "op_user": "Update User"
+  }
+  }

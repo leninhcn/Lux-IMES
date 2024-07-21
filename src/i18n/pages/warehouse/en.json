@@ -1,0 +1,127 @@
+{
+  "mwarehouse": {
+    "warehouseCode": [
+      "WarehouseCode",
+      "Warehouse Code",
+      "Please enter warehouse code",
+      "Warehouse code is required"
+    ],
+    "warehouseName": [
+      "WarehouseName",
+      "Warehouse Name",
+      "Pleaes enter warehouse name",
+      "Warehouse name is required"
+    ],
+    "warehouseType": [
+      "WarehouseType",
+      "Warehouse Type",
+      "Please select warehouse type",
+      "Warehouse type is required"
+    ],
+    "locationCode": [
+      "LocationCode",
+      "Location Code",
+      "Please enter location code",
+      "Location code is required"
+    ],
+    "locationName": [
+      "LocationName",
+      "Location Name",
+      "Please enter location name",
+      "Location name is required"
+    ],
+    "locationType": [
+      "LocationType",
+      "Location Type",
+      "Please select location type",
+      "Location type is required"
+    ],
+    "currentStatus": [
+      "Pallet",
+      "Pallet?",
+      "Please select whether pallet or not",
+      "Pallet is required"
+    ],
+    "enabled": [
+      "Status",
+      "Status",
+      "Please select status",
+      "Status is required"
+    ],
+    "ConfirmChangeStatus": "Confirm to {op} {name}?",
+    "ChangeOK": "Change OK",
+    "AddWarehouse": "Add Warehouse",
+    "UpdateWarehouse": "Update Warehouse",
+    "AddStorageLocation": "Add Storage Location",
+    "UpdateStorageLocation": "Update Storage Location",
+    "AddOK": "Add OK",
+    "UpdateOK": "Update OK"
+  },
+  "warehousing": {
+    "cmbtype": [
+      "CmbType",
+      "Cmb Type",
+      "Please select cmb type",
+      "Cmb type is required"
+    ],
+    "ipn": [
+      "PartNo",
+      "Part No",
+      "Please enter part no",
+      "Part no is required"
+    ],
+    "mark": [
+      "Remark",
+      "Remark",
+      "Please enter remark",
+      "Remark is required"
+    ],
+    "warehousecode": [
+      "WarehouseCode",
+      "Warehouse Code",
+      "Please select warehouse code",
+      "Warehouse code is required"
+    ],
+    "locationcode": [
+      "LocationCode",
+      "Location Code",
+      "Please enter location code",
+      "Location code is required"
+    ],
+    "inputtype": [
+      "InputType",
+      "Input Type",
+      "Please select input type",
+      "Input type is required"
+    ],
+    "qty": [
+      "Qty",
+      "Qty",
+      "Please enter qty",
+      "Qty is required"
+    ],
+    "inputdata": [
+      "InputData",
+      "Input Data",
+      "Please enter input data",
+      "Input data is required"
+    ],
+    "ResetLocationCode": "ResetLocationCode",
+    "ClearData": "ClearData",
+    "success": " success",
+    "InCount": "InputCount",
+    "InData": "InputData",
+    "table": {
+      "worK_ORDER": "WorkOrder",
+      "parT_NO": "PartNo",
+      "palleT_NO": "PalletNo",
+      "cartoN_NO": "CartonNo",
+      "seriaL_NUMBER": "SN",
+      "customeR_SN": "CSN",
+      "qty": "SNQty",
+      "fixeD_QTY": "FixedQty",
+      "sN_UNIT": "SNUnit"
+    },
+    "PartNoExisted": "PartNoExisted"
+  }
+}
