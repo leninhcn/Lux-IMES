@@ -19,6 +19,8 @@
     "phoneCode": "請輸入短信驗證碼",
     "sendPhoneCode": "發送驗證碼",
     "input_phoneNum": "請輸入手機號",
-    "tip_scan_code": "請使用移動端app掃碼登錄"
+    "tip_scan_code": "請使用移動端app掃碼登錄",
+    "langTitle":"多语言设置",
+    "appTitle":"智能制造执行系统"
   }
 }

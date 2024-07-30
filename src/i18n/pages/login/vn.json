@@ -19,6 +19,8 @@
     "phoneCode": "Please enter SMS verification code",
     "sendPhoneCode": "Send",
     "input_phoneNum": "Please enter phone number",
-    "tip_scan_code": "Please use the mobile app to scan the code to log in"
+    "tip_scan_code": "Please use the mobile app to scan the code to log in",
+    "langTitle": "Cài đặt đa ngôn ngữ",
+    "appTitle":"HỆ THỐNG SẢN XUẤT THÔNG MINH"
   }
 }

@@ -12,11 +12,27 @@
 
   .login {
     margin: 0 auto;
-    background: #ffffff;
+    background: #1f183fdc;
     border-radius: 6px;
     width: var(--base-login-width);
     position: relative;
     // height: 420px;
+
+    .imes-logo{
+      margin: {
+        top:10px;
+      };
+      width: 50%;
+      height: 180px;
+     // position: absolute;
+      background-color: red;
+      z-index: 200;
+      transform: translateX(50%);
+      border-radius: 50%;
+      background-image: url('@/assets/logo/logo2.png');
+      background-size: cover;
+      cursor: pointer;
+    }
   }
 }
 

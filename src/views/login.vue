@@ -1,11 +1,10 @@
 <template>
   <starBackground></starBackground>
-  <img src="../assets/logo/logo_big.png" alt="" class="logoImg">
+  <img src="../assets/logo/luxlogo.png" alt="" class="logoImg" />
   <div class="login-wrap">
     <div class="login">
-      <h3 class="title">{{ defaultSettings.title }}</h3>
-
-      <LangSelect title="多语言设置" class="langSet" />
+      <div class="imes-logo"></div>
+      <!-- <h3 class="title">{{ $t('login.appTitle') }}</h3> -->
 
       <div style="padding: 0 25px 5px 25px">
         <el-tabs v-model="loginType" @tab-click="handleLoginType">
@@ -18,8 +17,7 @@
       <el-form ref="loginRef" :model="loginForm" :rules="loginRules" class="login-form" v-show="loginType == 1">
         <el-form-item prop="site">
           <el-select v-model="loginForm.site" :placeholder="$t('login.site')">
-            <el-option v-for="(site, index) in siteOptions" :label="site.site" :value="site.site"
-              :key="index"></el-option>
+            <el-option v-for="(site, index) in siteOptions" :label="site.site" :value="site.site" :key="index"></el-option>
           </el-select>
         </el-form-item>
         <el-form-item prop="username">
@@ -30,16 +28,14 @@
           </el-input>
         </el-form-item>
         <el-form-item prop="password">
-          <el-input v-model="loginForm.password" type="password" auto-complete="off" :placeholder="$t('login.password')"
-            @keyup.enter="handleLogin">
+          <el-input v-model="loginForm.password" type="password" auto-complete="off" :placeholder="$t('login.password')" @keyup.enter="handleLogin">
             <template #prefix>
               <svg-icon name="password" class="input-icon" />
             </template>
           </el-input>
         </el-form-item>
         <el-form-item prop="code" v-if="captchaOnOff != 'off'">
-          <el-input v-model="loginForm.code" auto-complete="off" :placeholder="$t('login.captcha')" style="width: 63%"
-            @keyup.enter="handleLogin">
+          <el-input v-model="loginForm.code" auto-complete="off" :placeholder="$t('login.captcha')" style="width: 63%" @keyup.enter="handleLogin">
             <template #prefix>
               <svg-icon name="validCode" class="input-icon" />
             </template>
@@ -50,7 +46,20 @@
         </el-form-item>
 
         <el-form-item>
-          <el-checkbox v-model="loginForm.rememberMe">{{ $t('login.rememberMe') }}</el-checkbox>
+          <div>
+            <el-row :gutter="20">
+              <el-col :span="16"
+                ><div style="position: relative; width: 150px">
+                  <el-checkbox v-model="loginForm.rememberMe">{{ $t('login.rememberMe') }}</el-checkbox>
+                </div></el-col
+              >
+              <el-col :span="8">
+                <div style="width: 100%; height: 100%; position: relative; margin-left: 30px; float: left">
+                  <LangSelect style="transform: translateY(-30%)" :title="$t('login.langTitle')" class="langSet" />
+                </div>
+              </el-col>
+            </el-row>
+          </div>
         </el-form-item>
 
         <!-- <div style="display: flex; justify-content: space-between; align-items: center">
@@ -61,8 +70,7 @@
           </span>
         </div> -->
         <el-form-item style="width: 100%">
-          <el-button :loading="loading" size="default" round type="primary" style="width: 100%"
-            @click.prevent="handleLogin">
+          <el-button :loading="loading" size="default" round type="primary" style="width: 100%" @click.prevent="handleLogin">
             <span v-if="!loading">{{ $t('login.btnLogin') }}</span>
             <span v-else>登 录 中...</span>
           </el-button>
@@ -79,9 +87,7 @@
       <oauthLogin v-show="defaultSettings.showOtherLogin"></oauthLogin> -->
     </div>
 
-    <div class="el-login-footer">
-      ©{{ new Date().getFullYear() }} Luxshare-ict 智能制造平台推广部提供技术支持
-    </div>
+    <div class="el-login-footer">©{{ new Date().getFullYear() }} Luxshare-ict Intelligent Manufacturing Platform Promotion Department provides technical support</div><!--智能制造平台推广部提供技术支持-->
   </div>
 </template>
 
@@ -300,8 +306,8 @@ getSites()
 }
 
 .title {
-  font-size: 22px;
-  font-weight: 500;
+  color: blue;
+  font-weight: bold;
 }
 
 .logoImg {

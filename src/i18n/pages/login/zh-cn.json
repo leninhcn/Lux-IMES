@@ -19,6 +19,8 @@
     "loginway2": "手机号",
     "loginway3": "扫码登录",
     "input_phoneNum": "请输入手机号",
-    "tip_scan_code": "请使用移动端app扫码登录"
+    "tip_scan_code": "请使用移动端app扫码登录" ,
+    "langTitle":"多语言设置",
+    "appTitle":"智能制造执行系统"
   }
 }

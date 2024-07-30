@@ -1,7 +1,11 @@
 <template>
-  <div>
+  <div style="display: block">
     <el-dropdown trigger="hover" @command="handleLanguageChange" style="vertical-align: middle">
-      <svg-icon class-name="size-icon" name="language" :color="props.color" />
+      <!-- <svg-icon class-name="size-icon" name="language" :color="props.color" /> -->
+      <el-button text type="primary">
+        {{ langOptions.filter((element) => element.value === lang)[0].label }}
+        <el-icon class="el-icon--right"><arrow-down /></el-icon>
+      </el-button>
       <template #dropdown>
         <el-dropdown-menu>
           <el-dropdown-item v-for="item of langOptions" :key="item.value" :disabled="lang === item.value" :command="item.value">
